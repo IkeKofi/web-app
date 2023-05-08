@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>JOMACS Releases Nexus Repository</name>
-	      <url>http://34.203.226.127:8081/repository/ouh-release/</url>
+	      <url>http://100.24.6.238:8081/repository/ouh-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>JOMACS Snapshot Nexus Repository </name>
-	      <url>http://34.203.226.127:8081/repository/ouh-snapshot/</url>
+	      <url>http:http://100.24.6.238:8081/repository/ouh-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
